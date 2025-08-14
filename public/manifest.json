@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Prompt Improver",
+  "version": "1.0",
+  "description": "Improve prompts with a right-click.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["contextMenus", "scripting", "activeTab", "clipboardWrite"],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

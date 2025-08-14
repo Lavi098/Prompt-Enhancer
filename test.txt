@@ -1,0 +1,34 @@
+make image of dog
+
+summarise long article fast
+
+tell about ai
+
+how to code
+
+weather?
+
+do my homework for me
+
+explain this topic in easy way
+
+⚠️ Messy or Ill-formed Prompts
+iwant video for girl singing in bg beach sunrize feel
+
+give code html css good website i no idea
+
+plz write essay on india like for school but different
+
+chatgpt give me more idea for app new startup idea no boring one fast
+
+generate image boy crying alone full hd AI art real looking
+
+do some poem about moon or ocean or like mix of both
+
+🎯 Scenario-Based Prompts (good for polishing)
+Write a cold email to a potential investor for a startup solving parking problems in cities.
+
+Generate a prompt that could be used in MidJourney to create a futuristic skyline at night.
+
+Turn this rough idea into a polished blog title: 'tips for better productivity but not like boring normal stuff'
+

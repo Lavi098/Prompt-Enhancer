@@ -1,0 +1,55 @@
+.app {
+  background: #23232b;
+  color: #f1f2f6;
+  border-radius: 16px;
+  padding: 24px 20px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  min-width: 320px;
+  min-height: 320px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.45);
+}
+
+h1 {
+  font-size: 1.8em;
+  margin-bottom: 18px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+textarea {
+  width: 100%;
+  border-radius: 8px;
+  border: none;
+  padding: 12px;
+  font-size: 15px;
+  margin-bottom: 14px;
+  background: #28283a;
+  color: #f1f2f6;
+  resize: vertical;
+}
+
+button {
+  padding: 8px 18px;
+  border-radius: 8px;
+  border: none;
+  background: #0984e3;
+  color: #fff;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button:disabled {
+  background: #636e72;
+  cursor: not-allowed;
+}
+
+.suggestion {
+  margin-top: 20px;
+  background: rgba(44,44,54,0.13);
+  border-radius: 8px;
+  padding: 14px;
+  font-size: 15px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
