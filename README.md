@@ -1,5 +1,16 @@
 
-Prompt Enhancer is a tool that improves and refines AI prompts to make them more detailed, structured, and contextually rich. It helps users transform short or vague inputs into well-crafted prompts, ensuring better and more accurate AI-generated responses.
+Prompt Enhancer is a extension that improves and refines AI prompts to make them more detailed, structured, and contextually rich. It helps users transform short or vague inputs into well-crafted prompts, ensuring better and more accurate AI-generated responses.
+
+how it work - 
+-using this extension is very simple just select the prompt u are give to any LLM,image,video generating model 
+- right click on selected text and choos improve prompt with extension
+- it suggest u improved prompts within seconds after that u got 3 option (accept,suggest another,cancel)
+- by accepting it directly paste in place of your original prompt
+- by slecting suggest another it give u another prompt
+- by choosing cancel it cancel the task
+
+  how it help user?
+  by giving prompts with more context , with more info the output u are genrating will be more precise 
 
 Project Setup
 🔒 Environment Variables
