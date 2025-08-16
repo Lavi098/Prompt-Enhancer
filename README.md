@@ -1,5 +1,7 @@
 
 demovideo - https://github.com/Lavi098/Prompt-Enhancer-extension/blob/main/demo%20video.mp4
+
+
 Prompt Enhancer is a extension that improves and refines AI prompts to make them more detailed, structured, and contextually rich. It helps users transform short or vague inputs into well-crafted prompts, ensuring better and more accurate AI-generated responses.
 
 how it work - 
